@@ -1,0 +1,26 @@
+.nav-head {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.button-background-color {
+    background-color: #F04F29;
+    color: white;
+}
+
+.marketing-text {
+    margin-left: 130px;
+    margin-top: 80px;
+}
+
+.h1-text {
+    font-size: 75px;
+}
+
+.text-red {
+    color: #F04F29;
+}
+
+.markting-list {
+    list-style-type: none;
+}
